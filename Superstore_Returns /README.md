@@ -1,4 +1,4 @@
-# TripleTen Sprint 5 Project
+# TripleTen Sprint 5 Project / SuperStore Returns
 
 This is the 5th project I worked on in the TripleTen Business Intelligence Analyst program. This project was the most extensive project I had worked on thus far.
 
