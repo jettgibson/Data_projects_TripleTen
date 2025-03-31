@@ -1,5 +1,4 @@
-# TripleTen Final Project \- EDA
-
+# TripleTen Final Project
 This is the 7th project I worked on in the TripleTen Business Intelligence Analyst program. This project was the largest & most independent project I have done.
 
 ### Zomato Customer Analysis
