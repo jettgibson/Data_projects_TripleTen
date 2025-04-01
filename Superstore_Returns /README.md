@@ -42,8 +42,21 @@ The data is provided by TripleTen, who took it from Kaggle and modified it.
 
 #### The Process
 
-I first explored the dataset and merged DataFrames from different sources. Finally, I analyzed the data using visualizations.
+I first joined the two groups of data, Returns & Orders. Followed by creating a calculated field where null values are 0, and Yes values are 1. I then began analyzing the data to find the root clauses for returned orders by building the following:
+- a scatterplot showing the correlation between total sales and total returns
+- a bar chart showing the return rate by product category
+- the return rate by customer. To find customers who are more prone to making returns
+- a map showing the return rate by some geographic measure (state, city, etc.) to see if there is a geographic concentration to returned orders
+- the return rate by some measure of time (month, week, etc.) to see if there is a seasonal effect to returned orders
+- a bar chart showing the return rate by segment of customer and product category
+
+I then created a dashboard for all of the charts to be displayed on. Along with creating a story to show which states exactly had the highest rates of returns, and what product category they were more prone to return.  
 
 ### Conclusion
 
-Come back and write this
+After the analysis, I recommended to Superstore that the returned orders could be due a variety of issues, including:
+- Product Quality issues
+- Shipment errors
+- Customer Dissatisfaction
+
+But to mainly focus on the Western Region of the country, where a majority of returns were taking place. With California, Oregon, & Utah being the top 3 states with the highest rate of return, across all catagories.
