@@ -32,8 +32,12 @@ The data is provided by TripleTen, who took it from Kaggle and modified it.
 
 #### The Process
 
-I first explored the dataset to see which two groups of data I could inner join to conduct the analysis. I then began segmenting the customers by their occupation, monthly income, and martial status and analyzing each segment of customer by their spending habits. Finally, I analyzed the data using bar & line chart visualizations to help the stakeholders better understand the data.
+I first explored the dataset to see which two groups of data I could inner join to conduct the analysis. I then began segmenting the customers by their occupation, monthly income, and martial status to see if there was a certain type of customer that used Zomato's services more than any other. I ran these segments of customers against the amount of sales, to see who was spending the most money on Zomato's services. I then began analyzing each segment of customer by their spending habits over time. What particular days of the week they were most active, what particular months they most active, etc. 
 
-### Results
+### Conclusion
 
-Taking the time to analyze the results from the data, I built a PowerPoint that outlined what was found from the data using charts & graphs, and made suggestions to Zomato to consider in the future, to help improve profits.
+After my analysis, I found that Zomato's customers are primarily young, single students who use their services primarily during the week, Monday through Friday, most likely during the school/work week. In order to boost overall performance for Zomato, I made the following suggestions:
+- Student discounts
+- Study Hour Promotions
+- Campus Sponsorships
+- Delivery Bundles
