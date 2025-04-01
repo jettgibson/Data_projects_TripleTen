@@ -1,7 +1,7 @@
-# TripleTen Sprint 3 Project / E-Commerce Business Analysis
+# TripleTen Sprint 3 Project / E-Commerce Company Analysis
 This is the 3rd project I worked on in the TripleTen Business Intelligence Analyst program. This project was the most in depth and complex project we worked on with Advanced Spreadsheets.
 
-### E-Commerce Business Analysis
+### E-Commerce Company Analysis
 
 The goal of the project was to analyze and understand how well the website is converting product page views into purchases.
 
