@@ -10,12 +10,12 @@ The goal of the project was to analyze and understand how well the website is co
 The dataset has the following columns:
 
 - `users.csv`: each row corresponds to one customer  
-    - `user_id`: unique customer IDs
-    - `event_type`: the type of activity by the user
-    - `category_code`: category of the product being viewed or purchased
-    - `brand`: company that makes the product
-    - `price`: price of the product, in USD
-    - `event_date`: date of the user activity, in YYYY-MM-DD format
+    - `'user_id'`: unique customer IDs
+    - `'event_type'`: the type of activity by the user
+    - `'category_code'`: category of the product being viewed or purchased
+    - `'brand'`: company that makes the product
+    - `'price'`: price of the product, in USD
+    - `'event_date'`: date of the user activity, in YYYY-MM-DD format
 
 The data is provided by TripleTen, who took it from Kaggle and modified it.
 
