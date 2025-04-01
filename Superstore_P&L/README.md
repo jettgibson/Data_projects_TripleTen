@@ -46,8 +46,10 @@ I first identified the important centers of profit and loss by segmenting pairs 
 
 I then analyzed the 3 best combinations of states and months to advertise in, in order to determine which states/months would have the highest rate of return on investment in advertising. To do so, I made a visualization for the 3 states with the highest average profit for each month in the calendar year. Which helped determine exactly how much Superstore should be willing to spend on advertising in these states, and when to do so.
 
-Finally, we evaluated the data to see if there were any products that had abnormal rates of returns. To do so, I created a calculated field where the null vlaues are 0 and the Yes valuues are 1. I then used this calculated field to build a visualization for products with the highest return rate and also which customers were more prone to return items. I then built a visualization for that ran the average profit against the average return rate for products by category and state. 
+Finally, we evaluated the data to see if there were any products that had abnormal rates of returns. To do so, I created a calculated field where the null vlaues are 0 and the Yes valuues are 1. I then used this calculated field to build a visualization for products with the highest return rate and also which customers were more prone to return items. I then built a visualization that ran the average profit against the average return rate for products by category and state. 
 
 ### Conclusion
 
-After the analysis, I recommended that Superstore stop selling products such as Bookcases, Supplies, & Tables. And doublw down on selling Copiers, Phones, & Accessories. 
+After the analysis, I recommended that Superstore stop selling products such as Bookcases, Supplies, & Tables. And to focu on selling Copiers, Phones, & Accessories.
+For Advertising, I recommended that Superstore focus Advertising in Indiana in the month of October, Vermont in the month of November, Washington in the month of March.
+Lastly, for the products that had abnormal rates of returns, I found that Binders, Paper, and Accessories were the products that were the most prone to being returned by consumers and made suggestions to Superstore to help reduce the amount of returns. Along with making suggestions to help reduce the amount of returns in states such as Colorado, Oregon, Ohio, & Texas.
