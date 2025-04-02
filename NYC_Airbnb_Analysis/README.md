@@ -1,6 +1,8 @@
 # TripleTen Sprint 1 Project / NYC Airbnb Analysis
 This was the very first project I worked on in the TripleTen Business Intelligence Analyst program. This project introduced me to Advanced Spreadsheets and a little bit of data visualization.
 
+#### Link to Page: https://docs.google.com/spreadsheets/d/1onIaA13q_bJOESTcrwANEDGfe0y1ANWXmY5m34IC2lE/edit?usp=sharing
+
 ### NYC Airbnb Analysis
 
 The goal of this project was to analyze the Manhattan vacation rental market in order to help a client decide on what type of property they should purchase for an Airbnb.
