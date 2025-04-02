@@ -1,7 +1,7 @@
 # TripleTen Sprint 3 Project / E-Commerce Company Analysis
 This is the 3rd project I worked on in the TripleTen Business Intelligence Analyst program. This project was the most in depth and complex project we worked on with Advanced Spreadsheets.
 
-#### Link to page: https://docs.google.com/spreadsheets/d/1I_sH6_fxk-s33I5SMQ8h8QzCXhR0rtG-c8s1VbaRJHI/edit?usp=sharing
+#### Link to analysis: https://docs.google.com/spreadsheets/d/1I_sH6_fxk-s33I5SMQ8h8QzCXhR0rtG-c8s1VbaRJHI/edit?usp=sharing
 
 ### E-Commerce Company Analysis
 
