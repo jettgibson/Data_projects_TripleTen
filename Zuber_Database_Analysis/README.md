@@ -41,4 +41,4 @@ And finally, I retrieved the data from the `trips` table that had rides that sta
 
 ### Conclusion
 
-After the analysis was complete, 
+Once the analysis was complete, I informed Zuber that passengers tend to take longer rides during "Bad" weather, but that passengers tend to take rides more often during "Good" weather. This could be because during "Bad" weather, drivers tend to drive more carefully, causing the trip to take longer. And when the weather is, "Good" passengers tend to go out more and therefore book trips more often. 
