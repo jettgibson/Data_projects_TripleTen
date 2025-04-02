@@ -1,6 +1,8 @@
 # TripleTen Final Project / Zomato Customer Analysis
 This is the 7th project I worked on in the TripleTen Business Intelligence Analyst program. This project was the largest & most independent project I have done.
 
+#### Link to Tableau Page: https://public.tableau.com/app/profile/jett.gibson/viz/TripleTenFinalProject_17424952764840/TotalSalesbyYearOccupation
+
 ### Zomato Customer Analysis
 
 The goal of the project was to analyze who Zomato's customers were and what were their spending habits.
