@@ -2,7 +2,7 @@
 
 This is the 4th project I worked on in the TripleTen Business Intelligence Analyst program. This project was an introduction to Tableau.
 
-#### Link to Tableau: https://public.tableau.com/app/profile/jett.gibson/viz/Sprint4Project_17405932009990/Returns2
+#### Link to Tableau Page: https://public.tableau.com/app/profile/jett.gibson/viz/Sprint4Project_17405932009990/Returns2
 
 ### Superstore Profit & Loss
 
