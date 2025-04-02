@@ -35,8 +35,10 @@ The data is provided by TripleTen, who took it from Kaggle and modified it.
 
 #### The Process
 
-I started the analysis by building a conversion funnel of how users interacted with the website, to help the stakeholder better understand how well the website is converting product page views into purchases. I then built acquisition cohorts based on the month of a user’s first purchase, and tracked cohort metrics month by month. After isolating user purchase activity into it's own table, I then calculated the first purchase date for each user who made a purchase and broke down their purchase dates into 3 columns: `'event_month'`, `'first_purchase_month'`, and `'cohort_age'`. Finally, I was able to aggregate the purchase data into cohorts and then calculate retention rates for each cohort month by month.
+To start the analysis, I analyzed data from competitors and tested a hypothesis about the impact of weather on ride frequency. I wanted to find the number of taxi rides for each taxi company for November 15-16, 2017 and sort the results by the amount of trips in descending order (doc 'Zuber_Database_Analysis(1)'). I then proceeded to find the number of rides for every taxi company whose name contains the words "Yellow" or "Blue" for November 1-7, 2017 and grouped them by the company name (doc 'Zuber_Database_Analysis(2)'). After finding that Flash Cab and Taxi Affiliation Services were the most popular taxi companies in November 2017, I wanted to know the number of rides for these two companies and group the data by the taxi company names (doc 'Zuber_Database_Analysis(3)'). 
+I then had to determine if and how the duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays compared to other days of the week and other weather conditions. To do so, I retrieved the weather condition records from the `weather_records` table and split all hours into two groups: "Bad" if the description field contains the words "rain" or "storm," and "Good" for others (doc 'Zuber_Database_Analysis(4)' and doc 'Zuber_Database_Analysis(5)'. 
+And finally, I retrieved the data from the `trips` table that had rides that started in the Loop (neighborhood_id: 50) and ended at O'Hare (neighborhood_id: 63) on a Saturday and retrieved the weather conditions for each ride, along with the duration (doc 'Zuber_Database_Analysis(6)'). 
 
 ### Conclusion
 
-During the analysis, I discovered the following:
+After the analysis was complete, 
