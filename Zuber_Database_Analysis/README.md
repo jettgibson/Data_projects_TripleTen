@@ -1,9 +1,9 @@
 # TripleTen Sprint 2 Project / Zuber Database Analysis
-This is the 3rd project I worked on in the TripleTen Business Intelligence Analyst program. This project was the most in depth and complex project we worked on with Advanced Spreadsheets.
+This is the 2nd project I worked on in the TripleTen Business Intelligence Analyst program. This project was my introduction to working with SQL.
 
-### E-Commerce Company Analysis
+### Zuber Database Analysis
 
-The goal of the project was to analyze and understand how well the website is converting product page views into purchases.
+The goal of the project was to find patterns in the available information, understand passenger preferences, and the impact of external factors on rides.
 
 #### The Data
 
