@@ -2,6 +2,8 @@
 
 This is the 5th project I worked on in the TripleTen Business Intelligence Analyst program. This project was the most extensive project I had worked on thus far.
 
+#### Link to Tableau Page: https://public.tableau.com/app/profile/jett.gibson/viz/Sprint5-Project_17412930529580/Story1
+
 ### Superstore Returned Orders
 
 The goal of the project was to analyze potential problems that could be causing the high influx of returned orders for Superstore, and use Data Visualization to help the stakeholders understand the data.
