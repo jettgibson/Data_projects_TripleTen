@@ -48,7 +48,7 @@ I first identified the important centers of profit and loss by segmenting pairs 
 
 I then analyzed the 3 best combinations of states and months to advertise in, in order to determine which states/months would have the highest rate of return on investment in advertising. To do so, I made a visualization for the 3 states with the highest average profit for each month in the calendar year. Which helped determine exactly how much Superstore should be willing to spend on advertising in these states, and when to do so.
 
-Finally, we evaluated the data to see if there were any products that had abnormal rates of returns. To do so, I created a calculated field where the null vlaues are 0 and the Yes valuues are 1. I then used this calculated field to build a visualization for products with the highest return rate and also which customers were more prone to return items. I then built a visualization that ran the average profit against the average return rate for products by category and state. 
+Finally, we evaluated the data to see if there were any products that had abnormal rates of returns. To do so, I created a calculated field where the null values are 0 and the Yes values are 1. I then used this calculated field to build a visualization for products with the highest return rate and also which customers were more prone to return items. I then built a visualization that ran the average profit against the average return rate for products by category and state. 
 
 ### Conclusion
 
