@@ -52,6 +52,6 @@ Finally, we evaluated the data to see if there were any products that had abnorm
 
 ### Conclusion
 
-After the analysis, I recommended that Superstore stop selling products such as Bookcases, Supplies, & Tables. And to focu on selling Copiers, Phones, & Accessories.
+After the analysis, I recommended that Superstore stop selling products such as Bookcases, Supplies, & Tables. And to focus on selling Copiers, Phones, & Accessories.
 For Advertising, I recommended that Superstore focus Advertising in Indiana in the month of October, Vermont in the month of November, Washington in the month of March.
 Lastly, for the products that had abnormal rates of returns, I found that Binders, Paper, and Accessories were the products that were the most prone to being returned by consumers and made suggestions to Superstore to help reduce the amount of returns. Along with making suggestions to help reduce the amount of returns in states such as Colorado, Oregon, Ohio, & Texas.
